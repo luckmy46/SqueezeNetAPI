@@ -3,7 +3,7 @@ This is a demo project for a CoreML Vapor API. This demo project has one post ro
 
 ## Tutorial
 This is a demo project written by Paul Peelen. For the totorial to this project along with instructions on how to use it, please see the tutorial posted here:
-[https://PaulPeelen.com/](https://paulpeelen.com/)
+[https://www.PaulPeelen.com/CoreMLAPI](https://paulpeelen.com/CoreMLAPI)
 
 ## MLModel
 Download the model mentioned above to `Resources/coreml` and follow these instructions from the root of the project to compile it:
